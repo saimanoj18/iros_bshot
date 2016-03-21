@@ -13,14 +13,14 @@ Paper Title: B-SHOT : A Binary Feature Descriptor for Fast and Efficient Keypoin
 
 You may cite as
 
-"@INPROCEEDINGS{bshot_iros2015,
-author={S. M. Prakhya and Bingbing Liu and Weisi Lin},
-booktitle={Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on},
-title={B-SHOT: A binary feature descriptor for fast and efficient keypoint matching on 3D point clouds},
-year={2015},
-pages={1929-1934},
-doi={10.1109/IROS.2015.7353630},
-month={Sept},}"
+@INPROCEEDINGS{bshot_iros2015,                   
+author={S. M. Prakhya and Bingbing Liu and Weisi Lin},                 
+booktitle={Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on},             
+title={B-SHOT: A binary feature descriptor for fast and efficient keypoint matching on 3D point clouds},               
+year={2015},            
+pages={1929-1934},              
+doi={10.1109/IROS.2015.7353630},                
+month={Sept},}            
 
 or
 
